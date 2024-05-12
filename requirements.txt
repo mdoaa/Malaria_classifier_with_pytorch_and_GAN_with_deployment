@@ -1,0 +1,9 @@
+Werkzeug
+Flask
+numpy
+gevent
+h5py
+tensorflow
+gunicorn
+Pillow
+matplotlib
